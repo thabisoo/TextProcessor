@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TextProcessor.ApplicationLogic\TextProcessor.ApplicationLogic.csproj" />
-    <ProjectReference Include="..\TextProcessor.DI\TextProcessor.DI.csproj" />
   </ItemGroup>
 
 </Project>

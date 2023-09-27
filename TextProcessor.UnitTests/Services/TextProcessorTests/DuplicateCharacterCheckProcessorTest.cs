@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TextProcessor.ApplicationLogic.Services.TextProcessors;
-using TextProcessor.DI;
+﻿using TextProcessor.ApplicationLogic.Services.TextProcessors;
 
 namespace TextProcessor.UnitTests.Services.TextProcessors
 {

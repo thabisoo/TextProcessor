@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TextProcessor.ApplicationLogic.Helplers.ResponseMessages.Services.TextProcessors
+﻿namespace TextProcessor.ApplicationLogic.Helplers.ResponseMessages.Services.TextProcessors
 {
     public static class VowelVersusNonVowelResponseMessages
     {
